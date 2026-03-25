@@ -1,0 +1,35 @@
+.git/
+venv/
+.env
+__pycache__/
+data/
+logs/
+data/
+notebooks/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.Python
+# Virtual Environment - IMPORTANT!
+venv/
+env/
+ENV/
+.venv/
+# Pyenv
+.python-version
+# Data files - DO NOT COMMIT!
+data/
+*.csv
+*.parquet
+# IDE
+.vscode/
+.idea/
+# OS
+.DS_Store
+# Logs
+*.log
+*./logs
+#Notebooks - only for exploratory analysis
+notebooks/
